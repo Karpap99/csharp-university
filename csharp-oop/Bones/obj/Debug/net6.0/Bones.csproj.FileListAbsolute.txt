@@ -1,0 +1,29 @@
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Bones\Bones\bin\Debug\net6.0\Bones.exe
+C:\Users\ASUS\source\repos\Bones\Bones\bin\Debug\net6.0\Bones.deps.json
+C:\Users\ASUS\source\repos\Bones\Bones\bin\Debug\net6.0\Bones.runtimeconfig.json
+C:\Users\ASUS\source\repos\Bones\Bones\bin\Debug\net6.0\Bones.dll
+C:\Users\ASUS\source\repos\Bones\Bones\bin\Debug\net6.0\Bones.pdb
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.dll
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\refint\Bones.dll
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.pdb
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\Bones.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Bones\Bones\obj\Debug\net6.0\ref\Bones.dll
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net6.0\Bones.exe
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net6.0\Bones.deps.json
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net6.0\Bones.runtimeconfig.json
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net6.0\Bones.dll
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net6.0\Bones.pdb
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\Bones.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\Bones.AssemblyInfoInputs.cache
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\Bones.AssemblyInfo.cs
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\Bones.csproj.CoreCompileInputs.cache
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\Bones.dll
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\refint\Bones.dll
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\Bones.pdb
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\Bones.genruntimeconfig.cache
+c:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net6.0\ref\Bones.dll

@@ -1,0 +1,14 @@
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net9.0\Bones.exe
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net9.0\Bones.deps.json
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net9.0\Bones.runtimeconfig.json
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net9.0\Bones.dll
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\bin\Debug\net9.0\Bones.pdb
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\Bones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\Bones.AssemblyInfoInputs.cache
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\Bones.AssemblyInfo.cs
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\Bones.csproj.CoreCompileInputs.cache
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\Bones.dll
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\refint\Bones.dll
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\Bones.pdb
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\Bones.genruntimeconfig.cache
+C:\Users\karpi\OneDrive\Рабочий стол\C#\Bones\obj\Debug\net9.0\ref\Bones.dll
